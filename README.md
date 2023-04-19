@@ -2,7 +2,7 @@
 
 
 - 🔭 My name is Le Quang Phu and nickname is Minstreal
-- 🌱 I’m currently learning software engineering at FPT University HCMC
+- 🌱 I’m currently learning Software Engineering at FPT University HCMC
 - 🌏 I'm living in Ho Chi Minh City, Viet Nam
 - 💡 Best fact ever heard: "You only live once, but if you do it right, once is enough."
 
