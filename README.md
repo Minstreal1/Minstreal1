@@ -1,15 +1,11 @@
 ### About me 👋
 
-<!--
-**Minstreal1/Minstreal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 My name is Le Quang Phu and nickname is Minstreal
 - 🌱 I’m currently learning software engineering at FPT University HCMC
 - 🌏 I'm living in Ho Chi Minh City, Viet Nam
 - 💡 Best fact ever heard: "You only live once, but if you do it right, once is enough."
--->
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quangphu.le.528) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/le-quang-phu-250a92213/) 
